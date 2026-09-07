@@ -44,7 +44,9 @@ stitch-and-co-management-system/
 │
 ├── includes/
 │   ├── auth.php
-│   └── db-connect.php "
+│   └── db-connect.php 
+└── database/
+    └── SQLQuery2.sql"
 
 ## ⚙️ How to Run
 
@@ -122,6 +124,4 @@ GitHub: https://github.com/fabiia-7
 LinkedIn: https://www.linkedin.com/in/fabia-arbab-557879434/
 
 ⭐ Thank you for visiting this project!
-│
-└── database/
-    └── SQLQuery2.sql
+
