@@ -40,7 +40,6 @@ stitch-and-co-management-system/
 ├── staffdashboard.php
 ├── logout.php
 ├── style.css
-├── login-bg.jpg
 │
 ├── includes/
 │   ├── auth.php
